@@ -88,7 +88,7 @@ Finally, add an experiments component that contains the HTML below:
 </ul>
 Make the list of experiments show up to the right of equipment list.
 
-28.8.4. Commit Your Work
+### Commit Your Work
 This repository will be used for the next two studios. Be sure to stage, commit, and push your changes. The next studio will start with a different branch.
 
 Verify the branch and status of the files.
