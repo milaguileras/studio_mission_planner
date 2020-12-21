@@ -60,16 +60,16 @@ Create an equipment component named equipment.
 
 The component should display the following:
 
-An /<h3> that contains "Equipment"
-A /<ul> that contains /<li> for: Habitat dome, Drones, Food containers, Oxygen tanks
-Add the equipment component to app.component.html using the HTML below. Notice the /<div> surrounding the crew and equipment components.
+An h3 that contains "Equipment"
+A ul that contains li for: Habitat dome, Drones, Food containers, Oxygen tanks
+Add the equipment component to app.component.html using the HTML below. Notice the div surrounding the crew and equipment components.
 
 
-/<app-header></app-header>
-/<div class="box">
-   /<app-crew></app-crew>
-   /<app-equipment></app-equipment>
-/</div>
+<app-header></app-header>
+<div class="box">
+   <app-crew></app-crew>
+   <app-equipment></app-equipment>
+</div>
 Add CSS to file app.component.css to horizontally align the crew and equipment lists. Without this CSS, the equipment list will appear below the crew list.
 
 /.box {
@@ -80,12 +80,12 @@ Add CSS to file app.component.css to horizontally align the crew and equipment l
 ### Experiments Component
 Finally, add an experiments component that contains the HTML below:
 
-/<h3>Experiments</h3>
-/<ul>
-   /<li>Mars soil sample</li>
-   /<li>Plant growth in habitat</li>
-   /<li>Human bone density</li>
-/</ul>
+<h3>Experiments</h3>
+<ul>
+   <li>Mars soil sample</li>
+   <li>Plant growth in habitat</li>
+   <li>Human bone density</li>
+</ul>
 Make the list of experiments show up to the right of equipment list.
 
 ### Commit Your Work
