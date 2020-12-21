@@ -1,4 +1,3 @@
-# studio_mission_planner
 # Studio: Angular, Part 1
 
 
