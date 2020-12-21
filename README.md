@@ -44,12 +44,12 @@ Create the component by running ng g component crew.
 
 Set the contents of crew.component.html to be:
 
-/<h3>Crew</h3>
-/<ul>
-  / <li>Jessica Watkins</li>
-  / <li>Raja Chari</li>
-  / <li>Jasmin Moghbeli</li>
-/</ul>
+<h3>Crew</h3>
+<ul>
+   <li>Jessica Watkins</li>
+   <li>Raja Chari</li>
+   <li>Jasmin Moghbeli</li>
+</ul>
 Add a reference to the header component in app.component.html.
 
 
